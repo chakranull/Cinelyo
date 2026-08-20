@@ -1,5 +1,7 @@
 # Cinelyo: AI Video Generator for Cinematic Content
 
+Seedance 2.5 is now available on Cinelyo: a practical AI video workflow for creators.
+
 [Cinelyo](https://cinelyo.com) is an AI-powered video generation platform that helps creators turn ideas, images, and reference materials into cinematic short-form videos.
 
 With Cinelyo, users can describe a scene in natural language, upload visual references, choose a generation model, and create polished AI videos directly from the browser.
